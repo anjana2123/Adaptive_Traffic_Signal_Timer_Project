@@ -114,7 +114,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 **Anjana Ramachandran**  
-Feel free to reach out for queries or collaborations via [LinkedIn](https://www.linkedin.com/in/anjana-ramachandran/).
+Feel free to reach out for queries or collaborations via [LinkedIn](https://www.linkedin.com/in/anjanaram03/).
 
 ---
 
