@@ -94,9 +94,6 @@ This script simulates the traffic signal adjustment based on detected vehicle de
 ### Vehicle Detection:
 ![Vehicle Detection](vehicle-detection.png)
 
-### Traffic Signal Logic:
-![Traffic Signal Logic](traffic-signal.jpg)
-
 ---
 
 ## Future Enhancements
